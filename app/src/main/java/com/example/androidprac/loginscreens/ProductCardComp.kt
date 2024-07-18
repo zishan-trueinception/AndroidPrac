@@ -23,7 +23,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextDecoration
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-
+// Define a data class for the card colors
 object ProductCardColor {
     val textDisabled: Color = Color(0x61000000)
     val Green500: Color = Color(0xFF4CAF50)
